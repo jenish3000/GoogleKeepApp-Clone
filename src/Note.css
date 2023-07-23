@@ -1,0 +1,22 @@
+.note{
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    /* gap: 10px; */
+    width: 15%;
+    background-color: rgb(233, 228, 228);
+    margin: 30px;
+    border-radius: 10px;
+   box-shadow: 30px 30px 30px -10px rgba(27, 26, 26, 0.315);
+ 
+}
+
+.noteTitle{
+    margin: 7px;
+    padding: 7px;
+}
+.noteDescription{
+    margin: 7px;
+    padding: 7px;
+}
